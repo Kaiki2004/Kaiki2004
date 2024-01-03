@@ -10,6 +10,19 @@ Além disso, sou uma pessoa esforçada que busca novas experiências e aprendiza
 - Desenvolver minha carreira sob a supervisão de uma empresa comprometida com desenvolvimento e inovação.
 - Me tornar um programador Full-Stack.
 
+  # Tecnologias:
+  <div display="inline-block">
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=github,git,html,css,bootstrap,javascript,php,python,mysql,vscode"/>
+      </a>
+    </p>
+ </div>
+ <div align="center"></div>
+ 
+----
+# Contatos:
+
   
 
 <!---
