@@ -1,8 +1,11 @@
-# Hello World, I’m @Kaiki2004
-Sou um estudante de engenharia de software, estou bacharelando no Centro Universitário Municipal de Franca (Uni-FACEF) e me formarei no ano de 2026, possuo nível de inglês intermediário, com certificação de Cambridge Preliminary B1, continuo estudando e praticando o inglês com o intuito de atingir o nível avançado e prestar a prova de proficiência Cambridge Fisrt Certificate (FCE).
-Além disso, sou uma pessoa esforçada que busca novas experiências e aprendizados. Fora do mundo profissional sou apaixonado por videogame e a cultura geek.
+# Hello World, I’m @Kaiki2004, be very welcome.
+Sou um estudante de engenharia de software e me formarei no ano de 2026, possuo nível de inglês intermediário com certificação de Cambridge Preliminary B1.
 
-**Meus objetivos são:**
+Além disso, sou uma pessoa esforçada que busca novas experiências e aprendizados; Fora do mundo profissional sou apaixonado por videogame e a cultura geek. 
+Aqui no meu GitHub você verá tudo que já fiz, as tecnologinas que utilizo, o que estou aprendendo e é possível acompanhar a minha evolução no mundo da tecnologia.
+
+
+**Meus objetivos:**
 -  Aplicar os conhecimentos adquiridos durante minha graduação em Engenharia de Software através de soluções críticas.
 - Adquirir novos conhecimentos e experiências.
 - Aprimorar meu inglês.
