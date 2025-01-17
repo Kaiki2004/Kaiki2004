@@ -17,7 +17,7 @@ Aqui no meu GitHub você verá tudo que já fiz, as tecnologinas que utilizo, o 
   <div display="inline-block">
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=github,git,html,css,bootstrap,javascript,php,python,mysql,vscode"/>
+        <img src="https://skillicons.dev/icons?i=gcp,git,html,css,javascript,py,mysql,vscode"/>
       </a>
     </p>
  </div>
