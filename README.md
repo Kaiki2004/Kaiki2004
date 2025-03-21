@@ -1,17 +1,15 @@
 # Hello World, I’m @Kaiki2004, be very welcome.
-Sou um estudante de engenharia de software e me formarei no ano de 2026, possuo nível de inglês intermediário com certificação de Cambridge Preliminary B1.
+Sou um estudante de engenharia de software e me formarei no ano de 2026, possuo nível de inglês avançado com certificação de Cambridge Preliminary B2.
 
-Além disso, sou uma pessoa esforçada que busca novas experiências e aprendizados; Fora do mundo profissional sou apaixonado por videogame e a cultura geek. 
+Além disso, sou uma pessoa esforçada que busca novas experiências e aprendizados; Fora do mundo profissional. 
 Aqui no meu GitHub você verá tudo que já fiz, as tecnologinas que utilizo, o que estou aprendendo e é possível acompanhar a minha evolução no mundo da tecnologia.
 
 
 **Meus objetivos:**
 -  Aplicar os conhecimentos adquiridos durante minha graduação em Engenharia de Software através de soluções críticas.
 - Adquirir novos conhecimentos e experiências.
-- Aprimorar meu inglês.
 - Desenvolver minhas habilidades de trabalho em equipe.
-- Desenvolver minha carreira sob a supervisão de uma empresa comprometida com desenvolvimento e inovação.
-- Me tornar um programador Full-Stack.
+- Me tornar um programador de excelência.
 
   # Tecnologias:
   <div display="inline-block">
