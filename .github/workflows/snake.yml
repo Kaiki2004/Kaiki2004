@@ -1,4 +1,4 @@
-name: Generate Snake 🐍
+name: Generate Snake 🐍 Matrix Style
 
 on:
   schedule:
@@ -13,12 +13,18 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Gerar a cobrinha com config customizada
+      - name: Gerar cobrinha Matrix direto com parâmetros
         uses: Platane/snk@v3
         with:
-          config_file: ./configs/matrix-config.yml  # ← aponta para o arquivo com cores
+          github_user_name: Kaiki2004
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+          color_snake: "#00FF41"
+          color_dots: "#000000,#003300,#006600,#00cc00,#00ff41"
+          background_color: "#000000"
+          pixels_per_day: 20
 
-      - name: Push para o branch de saída
+      - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
