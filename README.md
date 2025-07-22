@@ -1,12 +1,5 @@
 <h1>Oi, sou o Kaiki 👋</h1>
 
-<h3>Por que ninguém consegue hackear o celular do Superman? 🦸‍♂️📱</h3>
-<p>Porque ele é <strong>Kryptongrafado</strong>! 🔐💥</p>
-
-
-
----
-
 ## 👨‍💻 Sobre mim
 
 Sou um estudante de Engenharia de Software com um olhar curioso e prático sobre novas tecnologias. Gosto de desenvolver projetos que resolvem problemas reais, explorar novas tecnologias e como você percebeu gosto de piadas.
