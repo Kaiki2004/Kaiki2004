@@ -1,8 +1,0 @@
-github_user_name: Kaiki2004
-outputs: dist/github-contribution-grid-snake.svg
-
-# Estilo Matrix
-color_snake: "#00FF41"
-color_dots: "#000000,#003300,#006600,#00cc00,#00ff41"
-background_color: "#000000"
-pixels_per_day: 20
