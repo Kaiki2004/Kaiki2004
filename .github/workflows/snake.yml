@@ -2,8 +2,8 @@ name: Generate Snake 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa diariamente à meia-noite UTC
-  workflow_dispatch:      # Permite rodar manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -19,6 +19,9 @@ jobs:
           github_user_name: Kaiki2004
           outputs: |
             dist/github-contribution-grid-snake.svg
+          color_snake: "#64ffda"
+          color_dots: "#d1d5db,#6ee7b7,#3b82f6,#9333ea,#f43f5e"
+          pixels_per_day: 20
 
       - name: Commit e push para o branch de saída
         uses: crazy-max/ghaction-github-pages@v4
