@@ -2,7 +2,7 @@ name: Generate Snake 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa diariamente
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite
   workflow_dispatch:
 
 jobs:
@@ -13,16 +13,16 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Gerar a cobrinha personalizada
+      - name: Gerar a cobrinha estilo Matrix
         uses: Platane/snk@v3
         with:
           github_user_name: Kaiki2004
           outputs: |
             dist/github-contribution-grid-snake.svg
-          color_snake: "#9333ea"           # Roxo vibrante
-          color_dots: "#000000,#1f1f1f,#333333,#4b4b4b,#666666"  # degrade escuro
-          background_color: "#000000"
-          pixels_per_day: 20               # Mais definição
+          color_snake: "#00FF41"             # Verde Matrix
+          color_dots: "#000000,#003300,#006600,#00cc00,#00ff41"  # degradê Matrix
+          background_color: "#000000"        # Fundo preto
+          pixels_per_day: 20                 # Grade mais detalhada
 
       - name: Push para o branch de saída
         uses: crazy-max/ghaction-github-pages@v4
