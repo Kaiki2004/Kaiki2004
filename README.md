@@ -31,8 +31,8 @@ Sou um estudante de Engenharia de Software com um olhar curioso e prático sobre
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaiki2004&show_icons=true&theme=radical&hide_rank=false" alt="Kaiki GitHub stats" style="margin-right: 30px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiki2004&layout=compact&theme=radical" alt="Kaiki Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaiki2004&show_icons=true&theme=react&hide_rank=false" alt="Kaiki GitHub stats" style="margin-right: 30px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiki2004&layout=compact&theme=react" alt="Kaiki Top Langs" />
 </div>
 
 ---
