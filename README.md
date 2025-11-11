@@ -45,7 +45,7 @@ Sou um estudante de Engenharia de Software com um olhar curioso e prático sobre
 > Plataforma de pesquisa sobre games e suas builds usando IA
 
 🔹 [S.A.C.A](https://github.com/Kaiki2004/S.A.C.A)  
-> Plataforma de estudos com flash cards usadno IA
+> Plataforma de estudos com flash cards usando IA
 
 ---
 <div>
